@@ -1,0 +1,9 @@
+c:\users\maddog\documents\visual studio 2015\Projects\GB Editor\GB Editor\bin\Debug\GB Editor.exe.config
+c:\users\maddog\documents\visual studio 2015\Projects\GB Editor\GB Editor\bin\Debug\GB Editor.exe
+c:\users\maddog\documents\visual studio 2015\Projects\GB Editor\GB Editor\bin\Debug\GB Editor.pdb
+c:\users\maddog\documents\visual studio 2015\Projects\GB Editor\GB Editor\obj\Debug\GB Editor.csprojResolveAssemblyReference.cache
+c:\users\maddog\documents\visual studio 2015\Projects\GB Editor\GB Editor\obj\Debug\GB_Editor.Form1.resources
+c:\users\maddog\documents\visual studio 2015\Projects\GB Editor\GB Editor\obj\Debug\GB_Editor.Properties.Resources.resources
+c:\users\maddog\documents\visual studio 2015\Projects\GB Editor\GB Editor\obj\Debug\GB Editor.csproj.GenerateResource.Cache
+c:\users\maddog\documents\visual studio 2015\Projects\GB Editor\GB Editor\obj\Debug\GB Editor.exe
+c:\users\maddog\documents\visual studio 2015\Projects\GB Editor\GB Editor\obj\Debug\GB Editor.pdb
